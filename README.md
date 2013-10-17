@@ -1,7 +1,7 @@
 #Open Source
 
-Anton Örn Þórarinsson
-Guðmundur Auðunsson
+@Anton Örn Þórarinsson
+@Guðmundur Auðunsson
 
 ## 1. Linux uppsetning
 
