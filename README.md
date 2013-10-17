@@ -1,6 +1,7 @@
 #Open Source
 
-@Anton Örn Þórarinsson
+Anton Örn Þórarinsson
+Guðmundur Auðunsson
 
 ## 1. Linux uppsetning
 
@@ -16,8 +17,7 @@ Lýsið hvernig gekk að setja upp þessi tól.
 
 ## 3. Unnið með Git (1. hluti)
 
-Það var ekkert mál að forka verkefnið en það tók nokkrar tilraunir að búa til SSH-key en það tókst á endanum. Ég var einn í hóp eftir að hópmeðlimur minn gafst upp
-og kláraði ég þetta þá einn. 
+Það var ekkert mál að forka verkefnið en það tók nokkrar tilraunir að búa til SSH-key en það tókst á endanum. 
 
 https://github.com/antonorn/INTOPrufa/blob/master/NIM.cpp
 
