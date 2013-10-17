@@ -5,21 +5,30 @@
 
 ## 1. Linux uppsetning
 
-Það gekk frekar erfiðlega fyrst að setja upp Ubuntu og tók það langan tíma. Svo notaði ég Google og það virkaði á endanum að setja þetta upp með VirtualBox og eftir að hafa installað
+Anton - Það gekk frekar erfiðlega fyrst að setja upp Ubuntu og tók það langan tíma. Svo notaði ég Google og það virkaði á endanum að setja þetta upp með VirtualBox og eftir að hafa installað
 inn Ubuntu í gegnum það virkaði þetta mjög vel.
+
+Guðmundur - Ég var að reyna í marga klukkutíuma að slökkva á UEFI Secure Boot í windows 8 því það var að koma í veg fyrir að ég gæti sett inn pakka sem heitir grub 2 og er með síðustu
+pökkunum í installinu. Eftir langan tíma hætti ég þessu bara og er að keyra ubuntu af usb kubbnum mínum.
 
 <img src="Desktop/linux.png" height="250px" width="180px" />
 
 ## 2. Uppsetning á vim && git
 
-Áður en ég náði að setja þetta allt rétt upp náði ég ekki að setja upp vim eða git en eftir að hafa sett allt rétt upp þá náði ég að setja upp vim og git vandræðalaust.
+Anton - Áður en ég náði að setja þetta allt rétt upp náði ég ekki að setja upp vim eða git en eftir að hafa sett allt rétt upp þá náði ég að setja upp vim og git vandræðalaust.
 Lýsið hvernig gekk að setja upp þessi tól.
+
+Guðmundur - Fyrst var ég með ubuntu 12.04 en vim var ekki að installast svo ég sótti ubuntu 13.04
+og þá gat ég sett inn git og vim.
 
 ## 3. Unnið með Git (1. hluti)
 
-Það var ekkert mál að forka verkefnið en það tók nokkrar tilraunir að búa til SSH-key en það tókst á endanum. 
+Anton - Það var ekkert mál að forka verkefnið en það tók nokkrar tilraunir að búa til SSH-key en það tókst á endanum. 
 
 https://github.com/antonorn/INTOPrufa/blob/master/NIM.cpp
+
+Guðmundur - Þetta var eilíft basl og það var ekki fyrren Gunnar Guðvarðarson sagði okkur að nota cat að ég náði þessu. Þetta xclip var ekki að virka. Ég gerði keyinn minn
+sem mér fannst mjög óljóst í verkefnalýsingu því mér fannst einsog Anton ætti að búa til fyrir okkur báða af einhverjum ástæðum.
 
 ## 4. Uppsettur hugbúnaður
 
